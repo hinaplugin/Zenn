@@ -1,0 +1,10 @@
+title: "DiscordBotでEmbedを送信しよう！"
+summary: "DiscordBotでEmbedを作成し特別なメッセージを送信する方法"
+topics: ["Discord", "discord.js", "JavaScript", "Embed"]
+published: true
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - introduction
+  - setup
+  - account
